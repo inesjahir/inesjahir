@@ -47,6 +47,10 @@
 ## 💬 Discord
 <p align="center">
   <b>nenoussa.5</b><br>
+<a href="https://discordapp.com/users/TON_ID_SI_PUBLIC">
+  <img src="https://img.shields.io/badge/Discord-nenoussa.5-5865F2?logo=discord&logoColor=white" />
+</a>
+
 </p>
 
 ---
