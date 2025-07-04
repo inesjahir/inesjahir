@@ -1,9 +1,8 @@
 <h1 align="center">Hello, I'm Ines</h1>
 
 <h3 align="center">First-year Computer Science student at HE2B ESI (Belgium)</h3>
-
 <p align="center">
-  <img src="[https://media.giphy.com/media/10VjiVoa9rWC4M/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJocWd2aTc4OHowZHRubmlqdnpxaHZmMXIzMnJhMzByMjBqem1xNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iBR0mutbdfQ4/giphy.gif)" width="250" alt="Totoro waving" />
+  <img src="https://media.giphy.com/media/10VjiVoa9rWC4M/giphy.gif" width="250" alt="Totoro waving" />
 </p>
 
 ---
