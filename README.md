@@ -3,7 +3,8 @@
 <h3 align="center">First-year Computer Science student at HE2B ESI (Belgium)</h3>
 
 <p align="center">
- <img src="L’URL_DU_GIF_CHOISI" width="350" alt="Coding vibe minimal gif" /></p>
+  <img src="https://media.giphy.com/media/10VjiVoa9rWC4M/giphy.gif" width="250" alt="Totoro waving" />
+</p>
 
 ---
 
