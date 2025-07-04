@@ -3,8 +3,7 @@
 <h3 align="center">First-year Computer Science student at HE2B ESI (Belgium)</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRpcTgxZmJyZmR4cTVmdDJiODZoenA2OXN1Ym10bGZ4aWJud3BxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sjOADyw19Pa/giphy.gif" width="450" alt="Coding GIF" />
-</p>
+ <img src="L’URL_DU_GIF_CHOISI" width="350" alt="Coding vibe minimal gif" /></p>
 
 ---
 
@@ -46,7 +45,6 @@
 
 ## 💬 Discord
 <p align="center">
-  <b>nenoussa.5</b><br>
 <a href="https://discordapp.com/users/TON_ID_SI_PUBLIC">
   <img src="https://img.shields.io/badge/Discord-nenoussa.5-5865F2?logo=discord&logoColor=white" />
 </a>
@@ -55,4 +53,4 @@
 
 ---
 
-<h4 align="center">  This README designed by myself </h4>
+<h4 align="center">  This README is designed by myself </h4>
