@@ -1,6 +1,6 @@
-<h1 align="center">👨‍💻 Hello, I'm Ines</h1>
+<h1 align="center">Hello, I'm Ines</h1>
 
-<h3 align="center">🎓 First-year Computer Science student at HE2B ESI (Belgium)</h3>
+<h3 align="center">First-year Computer Science student at HE2B ESI (Belgium)</h3>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRpcTgxZmJyZmR4cTVmdDJiODZoenA2OXN1Ym10bGZ4aWJud3BxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sjOADyw19Pa/giphy.gif" width="450" alt="Coding GIF" />
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  💾 Also COBOL
+  Also COBOL
 </p>
 
 ---
