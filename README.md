@@ -9,6 +9,15 @@
 
 ---
 
+##  About Me
+
+<p align="center">
+I'm a passionate first-year Computer Science student curious about everything from front-end design to legacy languages like COBOL.<br>
+I love  tech communities, and learning new things by building cool projects! 
+</p>
+
+
+
 ## 🛠️ Current Technical Stack
 
 <p align="center">
@@ -21,9 +30,8 @@
   <img src="https://skillicons.dev/icons?i=arduino" alt="Explored Tools" />
 </p>
 
-<p align="center">
-  Also COBOL
-</p>
+<p align="center">💾 Also explored: <strong>COBOL</strong></p>
+
 
 ---
 
@@ -47,7 +55,7 @@
 
 ## 💬 Discord
 <p align="center">
-<a href="https://discordapp.com/users/TON_ID_SI_PUBLIC">
+<a href="https://discordapp.com/users/TON_ID_PUBLIQUE">
   <img src="https://img.shields.io/badge/Discord-nenoussa.5-5865F2?logo=discord&logoColor=white" />
 </a>
 
